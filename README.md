@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yassine Messioui  
 
 🎓 Master of Engineering student at **CentraleSupélec (Paris-Saclay University)** specializing in **Data Science & Artificial Intelligence**.  
-💡 I’m passionate about turning data into impactful solutions — from fraud detection systems to intelligent computer vision pipelines.  
+💡 I’m passionate about turning data into impactful solutions.  
 🌍 Based in Paris, France.  
 
 ---
@@ -22,7 +22,7 @@
 
 **💼 Agile Prototyper Intern @ Paris Digital Lab (2025)**  
 - **Hitachi Rail**: Designed a DeepSearch tool (LLMs + forecasting) to identify transport deserts.  
-- **BNP Paribas**: Built a fraud detection pipeline preventing €15M+ in losses with **Python + SQL + Dataiku**.  
+- **BNP Paribas**: Built a fraud detection pipeline preventing millions of euros in losses with **Python + SQL + Dataiku**.  
 - **French Air Force**: Fine-tuned deep learning models for geospatial analysis with **PyTorch + SAM**, reducing processing time from 3h to minutes.  
 
 ---
