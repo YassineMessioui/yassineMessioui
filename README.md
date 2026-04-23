@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yassine Messioui  
 
-🎓 Master of Engineering student at **CentraleSupélec (Paris-Saclay University)** specializing in **Data Science & Artificial Intelligence**.  
+🎓 Master of Engineering student at **CentraleSupélec (Paris-Saclay University)** specializing in **Computer Science**.  
 💡 I’m passionate about turning data into impactful solutions.  
 🌍 Based in Paris, France.  
 
